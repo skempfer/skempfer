@@ -1,16 +1,28 @@
-### Hi there 👋
+![Skempfer](https://images.unsplash.com/photo-1573486433811-a9eb5b1688a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60)
 
-<!--
-**skempfer/skempfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi, I am Ana :information_desk_person:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: I'm a Full-stack developer 
+- 🌱 I’m currently learning Python and Java
+- 👯 I’m looking to collaborate on open source projects
+- :octocat: To see my code, checkout the pins bellow
+
+___________________________________________________________________________________________________________________________________________________
+
+<a href="https://github.com/skempfer/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skempfer&hide=stars,issues&count_private=true&show_icons=true&theme=dracula"/>
+</a>
+<a href="https://github.com/skempfer/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skempfer&theme=dracula&layout=compact"/>
+</a>
+
+_____________________________________________________________________________________________________________________________________________________
+
+### Pinned
+
+
+
+
+
+
