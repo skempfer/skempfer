@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="Assets/image1.png" width="100%" height="auto" />
-</p>
 
 <h2 align="center">Hi there, I'm Ana 👋</h2>
 
