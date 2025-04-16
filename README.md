@@ -5,7 +5,7 @@
 <h2 align="center">Hi there, I'm Ana 👋</h2>
 
 <p align="center">
-  💻 Full-Stack Developer | 🌱 Currently learning Python and Java | 🤝 Open to open-source collaborations
+  💻 Full-Stack Developer | 🌱 Currently learning PHP | 🤝 Open to open-source collaborations
 </p>
 
 ---
@@ -49,6 +49,8 @@ Some of my main projects are private, but here's an overview of the companies an
   - Managed deployments and DevOps routines  
   - Currently expanding backend expertise using **PHP**  
   Technologies: **React**, **TypeScript**, **PHP**, **AWS**
+
+---
 
 ### 📌 Pinned
 
