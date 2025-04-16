@@ -23,18 +23,32 @@
 
 > I'm currently **open to freelance opportunities** — especially frontend projects using **React, Next.js, TypeScript** or full-stack apps with **Node.js, PHP and Elixir**.  
 >  
-> If you have a project in mind, feel free to [reach out](mailto:shana.kempfer88@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/skempfer))!
+> If you have a project in mind, feel free to [reach out](mailto:shana.kempfer88@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shanakempfer))!
 
 ---
 
-### 📊 GitHub Stats
+### 🧳 Professional Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skempfer&show_icons=true&count_private=true&theme=dracula" alt="Ana's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skempfer&layout=compact&theme=dracula" alt="Top Languages" height="180"/>
-</p>
+Some of my main projects are private, but here's an overview of the companies and products I've worked on:
 
----
+- 🧠 **Accenture**  
+  [ServiceNow Linter Project](https://www.accenture.com/cz-en/services/ecosystem-partners/servicenow)  
+  Worked as a Fullstack Developer on a custom linting solution for ServiceNow.  
+  Technologies: **React**, **TypeScript**, **Node.js**, **Elixir**
+
+- 🏡 **Nomad Homes**  
+  [nomadhomes.ae](https://www.nomadhomes.ae)  
+  Acted as a Backend Developer maintaining and improving a legacy system written in **Elixir**
+
+- 🪵 **MadeiraMadeira** (current)  
+  [madeiramadeira.com.br](https://www.madeiramadeira.com.br)  
+  Lead Frontend Developer on a pricing system used across MadeiraMadeira's platform and marketplaces.  
+  - Responsible for technical decisions and architectural design  
+  - Maintained and modernized legacy code  
+  - Designed and implemented new interfaces  
+  - Managed deployments and DevOps routines  
+  - Currently expanding backend expertise using **PHP**  
+  Technologies: **React**, **TypeScript**, **PHP**, **AWS**
 
 ### 📌 Pinned
 
@@ -60,7 +74,7 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/skempfer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shanakempfer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shana.kempfer88@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/skempfer"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
